@@ -1,0 +1,8 @@
+git is handy tool used by devolopers in agile application devolopment.
+Linux Commands
+cd command=>change directory
+ls => for list of files blue color for folder and white for files or list of all files and directories
+ls -a =>to see all files and folders along with hidden files and folders
+cd .. =>it is for undo directory or used to down one folder/directory
+this is git file
+..
